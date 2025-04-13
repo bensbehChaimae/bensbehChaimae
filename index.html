@@ -50,3 +50,25 @@
 
 </body>
 </html>
+
+
+<h1>💻 My Tech Stack README</h1>
+
+<!-- The README content will be dynamically loaded here -->
+<div class="readme-content" id="readme-content">
+    <!-- Markdown content will be inserted here by JavaScript -->
+</div>
+
+<script>
+    // Function to fetch and display the README.md content
+    fetch('README.md')  // Fetch the README.md file from the same directory
+        .then(response => response.text())
+        .then(data => {
+            // Insert the README content into the page
+            document.getElementById('readme-content').innerText = data;
+        })
+        .catch(error => console.error('Error loading README.md:', error));
+</script>
+
+</body>
+</html>
