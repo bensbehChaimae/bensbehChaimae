@@ -1,18 +1,3 @@
-<html>
-<head>
-    <style>
-        body {
-            background-color:rgba(131, 0, 131, 0.61); /* Purple background */
-            color: white; /* White text color for contrast */
-            font-family: Arial, sans-serif; /* Clean font */
-        }
-        h1, h2, h3 {
-            color: white; /* White headings for visibility */
-        }
-    </style>
-</head>
-<body>
-
 <img src="banner_github2.png" alt="GitHub Banner" width="100%" />
 
 
@@ -84,8 +69,7 @@ Hi there! 👋 I'm a third-year Big Data and AI Engineering student at ENSA Teto
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bensbehChaimae&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-</body>
-</html>
+
 
 
 
