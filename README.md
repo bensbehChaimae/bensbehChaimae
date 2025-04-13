@@ -1,11 +1,32 @@
 <img src="banner_github2.png" alt="GitHub Banner" width="100%" />
 
 
-# 💫 About Me:
-Hi there! 👋 I'm a third-year Big Data and AI Engineering student at ENSA Tetouan, Morocco 🇲🇦, passionate about AI, Deep Learning, and Data Science. 🌱<br><br>🔍 I'm looking to collaborate with other enthusiasts and professionals on exciting AI, ML, and Data Science projects.<br><br>💡 I'm looking for help with end-to-end AI projects, deployment as web apps, and improving my expertise in NLP and LLMs.<br><br>📚 I'm currently learning about Generative AI and diving deep into its applications. I'm also passionate about the field of NLP and focused on becoming an AI engineer, implementing real-world AI solutions. 🤖<br><br>💬 Ask me about AI, Python, Data Science, Machine Learning, or if you need help with your own projects! 😄<br><br>🎮 Fun fact: I love spending time in nature 🌳 and listening to classical music 🎶.<br><br>Let's connect and create something amazing together! 🚀<br><br><br><br>
+# 💫 About Me
+
+👋 **Hey there!** I'm a **third-year Big Data & AI Engineering student** at **ENSA Tetouan, Morocco 🇲🇦**, with a strong passion for **Artificial Intelligence**, **Deep Learning**, and **Data Science**.
+
+🌱 **Currently exploring:**  
+- Generative AI and its real-world applications  
+- Natural Language Processing (NLP)  
+- AI-powered web applications (FastAPI, Flask)  
+- End-to-end Machine Learning workflows (from data to deployment)
+
+🚀 **I'm open to collaborate** on exciting projects in:  
+- AI / Machine Learning  
+- NLP / LLMs  
+- Data Science / Data Engineering  
+- MLOps and Web Deployment
+
+💡 **My mission:** Become a well-rounded **AI Engineer** by building smart, real-world solutions that matter.
+
+💬 **Ask me about:**  
+Python 🐍 | AI 🤖 | Data Science 📊 | Machine Learning 🔍  
+Happy to help out or share ideas!
+
+🎮 **Fun fact:** I enjoy the calm of **nature 🌿** and the beauty of **classical music 🎼**.
+
 
 # 💻 Tech Stack
-
 
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-800080?logo=c&logoColor=white) 
