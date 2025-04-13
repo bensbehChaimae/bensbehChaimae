@@ -76,10 +76,21 @@ Happy to help out or share ideas!
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bensbehChaimae&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bensbehChaimae&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bensbehChaimae&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bensbehChaimae&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensbehChaimae&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bensbehChaimae&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
