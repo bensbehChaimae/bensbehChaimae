@@ -1,3 +1,18 @@
+<html>
+<head>
+    <style>
+        body {
+            background-color:rgba(131, 0, 131, 0.61); /* Purple background */
+            color: white; /* White text color for contrast */
+            font-family: Arial, sans-serif; /* Clean font */
+        }
+        h1, h2, h3 {
+            color: white; /* White headings for visibility */
+        }
+    </style>
+</head>
+<body>
+
 <img src="banner_github2.png" alt="GitHub Banner" width="100%" />
 
 
