@@ -1,5 +1,31 @@
 # <div align="center">👋 Welcome to My GitHub Profile</div>
 
+
+<div align="center">
+  <img alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
+
+
+## <div align="left">🚀 About Me</div>
+AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦. Passionate about building intelligent systems that solve real-world problems. Currently exploring Generative AI, NLP, and MLOps.
+
+🌱 **Currently exploring:**  
+- Generative AI and its real-world applications  
+- Natural Language Processing (NLP)  
+- AI-powered web applications (FastAPI, Flask)  
+- End-to-end Machine Learning workflows (from data to deployment)
+
+🚀 **I'm open to collaborate** on exciting projects in:  
+- AI / Machine Learning  
+- NLP / LLMs  
+- Data Science / Data Engineering  
+- MLOps and Web Deployment
+
+💡 **My mission:** Become a well-rounded **AI Engineer** by building smart, real-world solutions that matter.
+
+
+
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
@@ -10,51 +36,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bensbehChaimae&theme=material-palenight" alt="GitHub Streak"/>
 </div>
 
-## <div align="center">🚀 About Me</div>
 
-<div align="center">
-  <img alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
 
-## <div align="center">💻 Skills</div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>Programming</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-      </p>
-    </td>
-    <td align="center">
-      <h3>AI & ML</h3>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /><br/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>Data</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><br/>
-        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" /><br/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-    </td>
-    <td align="center">
-      <h3>Web & API</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /><br/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-      </p>
-    </td>
-  </tr>
-</table>
+
+## <div align="left">💻 Skills</div>
+
+
 
 ## <div align="center">📊 GitHub Stats</div>
 
