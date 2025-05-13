@@ -2,95 +2,79 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views"/>
-
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bensbehChaimae&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bensbehChaimae&theme=material-palenight" alt="GitHub Streak"/>
 </div>
 
 ## <div align="center">🚀 About Me</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlyNG05YWV2MGY5NzNwaTFsZmF4dWVoYzF1dDJhdjVqM3V5enN4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Machine Learning Engineer"
-        self.language_spoken = ["en_US", "fr_FR", "es_ES"]
-        self.interests = [
-            "Artificial Intelligence", 
-            "Deep Learning", 
-            "Large Language Models",
-            "Data Analysis"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! Let's connect and build amazing AI solutions together!")
-
-me = DataScientist()
-me.say_hi()
-```
+<div align="center">
+  <img alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
 
 ## <div align="center">💻 Skills</div>
 
-<div align="center">
-  
-  ### Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  
-  ### AI & ML
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  
-  ### Data
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  ### Web & API
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Programming</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+      </p>
+    </td>
+    <td align="center">
+      <h3>AI & ML</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /><br/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><br/>
+        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+    </td>
+    <td align="center">
+      <h3>Web & API</h3>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /><br/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/bensbehChaimae">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensbehChaimae&layout=compact&langs_count=7&theme=material-palenight"/>
   </a>
 </div>
 
 ## <div align="center">🏆 GitHub Trophies</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## <div align="center">🔥 Projects</div>
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=bensbehChaimae&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ## <div align="center">📈 Contribution Graph</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bensbehChaimae&theme=material-palenight" alt="Contribution Graph"/>
 </div>
 
 ## <div align="center">📫 Connect With Me</div>
@@ -114,7 +98,7 @@ me.say_hi()
   
   ### 🐍 Watch my contribution graph get eaten by the snake
   
-  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/bensbehChaimae/bensbehChaimae/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -124,5 +108,5 @@ me.say_hi()
   <h3>✨ Thanks for visiting! ✨</h3>
   <p>Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!</p>
   
-  ![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  ![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer)
 </div>
