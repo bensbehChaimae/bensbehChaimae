@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bensbehChaimae&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## <div align="center">🚀 About Me</div>
