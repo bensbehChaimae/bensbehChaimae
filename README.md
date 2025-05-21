@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img alt="Coding Girl" width="400" src="https://undraw.co/api/illustrations/0c407d8e-2f39-4ac5-936c-60b44b49a226">
 </div>
 
 
