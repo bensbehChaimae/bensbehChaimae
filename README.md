@@ -15,7 +15,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 💡 **My mission:** Become a well-rounded **AI Engineer** by building smart, real-world solutions that matter.
 
 
-
+---
 
 <div align="center">
   
@@ -23,7 +23,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   
 </div>
 
-
+---
 
 ## <div align="left">💻 Skills</div>
 
@@ -81,6 +81,15 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   
 </div>
 
+<picture>
+
+  ### 🐍 Watch my contribution graph get eaten by the snake
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
+</picture>
+
 ---
 
 
@@ -102,6 +111,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   </a>
 </div>
 
+--- 
 
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
