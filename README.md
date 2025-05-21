@@ -11,17 +11,6 @@
 ## <div align="left">🚀 About Me</div>
 AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦. Passionate about building intelligent systems that solve real-world problems. Currently exploring Generative AI, NLP, and MLOps.
 
-🌱 **Currently exploring:**  
-- Generative AI and its real-world applications  
-- Natural Language Processing (NLP)  
-- AI-powered web applications (FastAPI, Flask)  
-- End-to-end Machine Learning workflows (from data to deployment)
-
-🚀 **I'm open to collaborate** on exciting projects in:  
-- AI / Machine Learning  
-- NLP / LLMs  
-- Data Science / Data Engineering  
-- MLOps and Web Deployment
 
 💡 **My mission:** Become a well-rounded **AI Engineer** by building smart, real-world solutions that matter.
 
@@ -88,6 +77,20 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 
 
+---
+
+<div align="center">
+  
+  ### 🐍 Watch my contribution graph get eaten by the snake
+  
+  ![Snake animation](https://github.com/bensbehChaimae/bensbehChaimae/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+
+
 ## <div align="left">📫 Connect With Me</div>
 
 <div align="center">
@@ -105,15 +108,6 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   </a>
 </div>
 
-<div align="center">
-  
-  ### 🐍 Watch my contribution graph get eaten by the snake
-  
-  ![Snake animation](https://github.com/bensbehChaimae/bensbehChaimae/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
 
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
