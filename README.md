@@ -1,6 +1,3 @@
-<!-- Animated Header at the top of the page -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer" alt="Animated Header" style="width: 100%; display: block;">
-
 
 # <div align="center">👋 Welcome to My GitHub Profile</div>
 
@@ -48,11 +45,11 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 ## <div align="left">💻 Skills</div>
 
 ### **Programming Languages**
-![C](https://img.shields.io/badge/C-800080?logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-800080?logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-800080?logo=python&logoColor=ffdd54) 
-![Bash](https://img.shields.io/badge/Bash-800080?logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-800080?logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdd54) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
 
 ### **Frameworks and Libraries**
 ![FastAPI](https://img.shields.io/badge/FastAPI-800080?logo=fastapi) 
@@ -95,9 +92,6 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=bensbehChaimae&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 
 
