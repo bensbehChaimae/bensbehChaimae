@@ -76,14 +76,11 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 <div align="center">
   
   ### 🐍 Watch my contribution graph get eaten by the snake
-  
-  ![Snake animation](https://github.com/bensbehChaimae/bensbehChaimae/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
 
 <picture>
 
-  ### 🐍 Watch my contribution graph get eaten by the snake
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
