@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img alt="Coding Girl" width="400" src="https://undraw.co/api/illustrations/0c407d8e-2f39-4ac5-936c-60b44b49a226">
+  <img alt="Coding Girl" width="100%" src="https://images.unsplash.com/photo-1611926653458-09294b3142bf?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80">
 </div>
+
 
 
 ## <div align="left">🚀 About Me</div>
