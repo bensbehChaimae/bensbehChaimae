@@ -23,12 +23,6 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bensbehChaimae&theme=material-palenight" alt="GitHub Streak"/>
-</div>
-
-
-
 
 
 ## <div align="left">💻 Skills</div>
