@@ -11,7 +11,6 @@
 ## <div align="left">🚀 About Me</div>
 AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦. Passionate about building intelligent systems that solve real-world problems. Currently exploring Generative AI, NLP, and MLOps.
 
-
 💡 **My mission:** Become a well-rounded **AI Engineer** by building smart, real-world solutions that matter.
 
 
