@@ -7,7 +7,6 @@
 </div>
 
 
-
 ## <div align="left">🚀 About Me</div>
 AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦. Passionate about building intelligent systems that solve real-world problems. Currently exploring Generative AI, NLP, and MLOps.
 
