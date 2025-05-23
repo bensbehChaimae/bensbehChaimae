@@ -1,11 +1,13 @@
 
 # <div align="center">👋 Welcome to My GitHub Profile</div>
 
+--- 
 
 <div align="center">
   <img alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
+---
 
 ## <div align="left">🚀 About Me</div>
 AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦. Passionate about building intelligent systems that solve real-world problems. Currently exploring Generative AI, NLP, and MLOps.
