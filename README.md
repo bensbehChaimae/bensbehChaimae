@@ -18,7 +18,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 ---
 
 <div align="center">
-  
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
   
 </div>
