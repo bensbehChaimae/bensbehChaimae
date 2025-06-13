@@ -21,43 +21,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,tensorflow,pytorch,mongodb,tensorflow,pytorch,postgres,mysql,git,github," />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <strong>Languages:</strong> 
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" style="vertical-align: middle;" />
-</p>
-
-<p align="left">
-  <strong>Web Frameworks:</strong> 
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" style="vertical-align: middle;" />
-</p>
-
-<p align="left">
-  <strong>Machine Learning & AI:</strong> 
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" style="vertical-align: middle;" />
-</p>
-
-<p align="left">
-  <strong>Databases:</strong> 
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" style="vertical-align: middle;" />
-</p>
-
-<p align="left">
-  <strong>Big Data Tools:</strong> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" style="vertical-align: middle;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/64px-Apache_Spark_logo.svg.png" width="48" height="48" style="vertical-align: middle;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/64px-Hadoop_logo.svg.png" width="48" height="48" style="vertical-align: middle;"/>
-</p>
-
-<p align="left">
-  <strong>Cloud & DevOps:</strong> 
-  <img src="https://skillicons.dev/icons?i=git,github,heroku,docker" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,fastapi,flask,tensorflow,pytorch,keras,mongodb,postgres,mysql,git,github,figma,sqlserver,ssms,hadoop,kafka,spark,powerbi" />
 </p>
 
 ---
