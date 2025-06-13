@@ -26,6 +26,32 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 ---
 
+<p align="center">
+  <!-- Langages de programmation -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,sql" title="Python, C++, Bash, SQL" />
+  
+  <!-- Technologies Web -->
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css,vite" title="React, Tailwind CSS, HTML, CSS, Vite" />
+  
+  <!-- SGBD -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" title="MySQL, MongoDB, PostgreSQL" />
+  
+  <!-- Data Science & ML -->
+  <img src="https://skillicons.dev/icons?i=pandas,scikitlearn,numpy,matplotlib,seaborn,nltk,pytorch,tensorflow" title="Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn, NLTK, PyTorch, TensorFlow" />
+  
+  <!-- Web Scraping -->
+  <img src="https://skillicons.dev/icons?i=selenium,beautifulsoup" title="Selenium, BeautifulSoup" />
+  
+  <!-- Big Data -->
+  <img src="https://skillicons.dev/icons?i=hadoop,spark,kafka,hive,pig,flink" title="Hadoop, Spark, Kafka, Hive, Pig, Flink" />
+  
+  <!-- DevOps & Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" title="Git, GitHub, CI/CD" />
+</p>
+
+
+---
+
 <div align="center">
   
   ### 🐍 Watch my contribution graph get eaten by the snake
