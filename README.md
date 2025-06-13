@@ -21,7 +21,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 ## 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons i= python,cpp,c,bash,js,html,css,taiwindcss,react,vite,fastapi,flask,tensorflow,pytorch,keras,pandas,scikitlearn,numpy,matplotlib,seaborn,nltk,pytorch,tensorflow,selenium,beautifulsoup,mongodb,postgres,mysql,git,github,hadoop,spark,kafka,hive,pig,flink,figma,powerbi" />
+  <img src="https://skillicons.dev/icons i=python,cpp,c,bash,js,html,css,taiwindcss,react,vite,fastapi,flask,tensorflow,pytorch,keras,pandas,scikitlearn,numpy,matplotlib,seaborn,nltk,pytorch,tensorflow,selenium,beautifulsoup,mongodb,postgres,mysql,git,github,hadoop,spark,kafka,hive,pig,flink,figma,powerbi" />
 </p>
 
 ---
