@@ -4,24 +4,16 @@
 --- 
 
 <div align="center">
-  <img alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
+  
+</div>
 ---
 
 ## <div align="left">🚀 About Me</div>
 AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦. Passionate about building intelligent systems that solve real-world problems. Currently exploring Generative AI, NLP, and MLOps.
 
 💡 **My mission:** Become a well-rounded **AI Engineer** by building smart, real-world solutions that matter.
-
-
----
-
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
-  
-</div>
 
 ---
 
