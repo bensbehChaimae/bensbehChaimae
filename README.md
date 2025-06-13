@@ -53,12 +53,11 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 ### **Big Data Tools**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hadoop_logo.svg" alt="Apache Hadoop" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Apache_Hive_logo.svg" alt="Apache Hive" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/64px-Apache_Spark_logo.svg.png" alt="Apache Spark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/64px-Hadoop_logo.svg.png" alt="Apache Hadoop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Apache_Hive_logo.svg/64px-Apache_Hive_logo.svg.png" alt="Apache Hive" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="Apache Cassandra" width="40" height="40"/>
 </p>
-
 
 
 ### **Databases**
