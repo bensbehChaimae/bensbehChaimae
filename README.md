@@ -18,16 +18,18 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,fastapi,flask,tensorflow,pytorch,keras,mongodb,postgres,mysql,git,github,figma,sqlserver,ssms,hadoop,kafka,spark,powerbi" />
+  <img src="https://skillicons.dev/icons i= python,cpp,c,bash,js,html,css,taiwindcss,react,vite,fastapi,flask,
+    tensorflow,pytorch,keras,pandas,scikitlearn,numpy,matplotlib,seaborn,nltk,pytorch,tensorflow,selenium,beautifulsoup,
+    mongodb,postgres,mysql,
+    git,github,hadoop,spark,kafka,hive,pig,flink,
+    figma,powerbi" />
 </p>
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,sql,react,tailwindcss,html,css,vite,mysql,mongodb,postgres,pandas,scikitlearn,numpy,matplotlib,seaborn,nltk,pytorch,tensorflow,selenium,beautifulsoup,hadoop,spark,kafka,hive,pig,flink,git,github,githubactions" alt="Tech stack icons" />
-</p>
+
 
 
 
