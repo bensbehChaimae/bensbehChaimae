@@ -24,8 +24,6 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,cpp,c,bash,js,html,css,tailwindcss,react,vite,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
 </p>
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hive,pig,flink, powerbi
@@ -33,6 +31,61 @@ pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hiv
 
 ### test 
 
+<p align="center">
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30" alt="keras" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="30" alt="numpy" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" height="30" alt="matplotlib" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" alt="seaborn" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/NLTK_logo.png" height="30" alt="nltk" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Beautiful_Soup_Logo.png" height="30" alt="beautifulsoup" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="hadoop" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="spark" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_Hive_logo.svg" height="30" alt="hive" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Apache_Pig_logo.svg" height="30" alt="pig" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_Flink_logo.svg" height="30" alt="flink" />
+  </span>
+
+  <span style="background-color: #000; padding: 10px; border-radius: 12px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Power_BI_Logo.svg" height="30" alt="powerbi" />
+  </span>
+
+</p>
 
 
 
