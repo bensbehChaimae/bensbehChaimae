@@ -28,45 +28,6 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 ### test 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-9ADEF1?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/NLTK-76B900?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Pig-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
@@ -96,6 +57,44 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" />
 </p>
 
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132230.png" alt="C" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Bash" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Tailwind CSS" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968677.png" alt="Vite" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="FastAPI" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Flask" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="TensorFlow" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/226/226295.png" alt="PyTorch" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/888/888860.png" alt="Keras" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Pandas" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/773/773661.png" alt="Scikit‑Learn" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/889/889162.png" alt="NumPy" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/219/219970.png" alt="Matplotlib" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/3445/3445463.png" alt="Seaborn" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="NLTK" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Selenium" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/4715/4715745.png" alt="BeautifulSoup" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968670.png" alt="MongoDB" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968341.png" alt="MySQL" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="Git" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="Hadoop" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968673.png" alt="Apache Spark" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968656.png" alt="Apache Kafka" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968676.png" alt="Apache Hive" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968663.png" alt="Apache Pig" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968649.png" alt="Apache Flink" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968650.png" alt="Figma" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732124.png" alt="Power BI" width="40" />
 
 
 
