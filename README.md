@@ -12,7 +12,13 @@
 
 
 ## <div align="left">🚀 About Me</div>
+Hi there! I'm an AI enthusiast and Big Data Engineering student from Morocco 🇲🇦, passionate about building intelligent systems that solve real-world problems. I love exploring the intersection of data, algorithms, and impact — turning raw data into meaningful, actionable insights.
+** Currently diving deep into: ** 
+* Generative AI & LLMs
+* Natural Language Processing
+* ETL Data Pipelines & Big Data tools
 
+🚀 My mission is to become a well-rounded AI Engineer, capable of designing smart, responsible, and efficient AI solutions that truly make a difference.
 
 
 
