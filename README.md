@@ -24,20 +24,20 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,cpp,c,bash,js,html,css,tailwindcss,react,vite,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
 </p>
 
+<!-- Main skillicons row -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="keras" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="numpy" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/NLTK_logo.png" height="40" alt="nltk" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Beautiful_Soup_Logo.png" height="40" alt="beautifulsoup" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="hadoop" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_Hive_logo.svg" height="40" alt="hive" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Apache_Pig_logo.svg" height="40" alt="pig" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_Flink_logo.svg" height="40" alt="flink" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Power_BI_Logo.svg" height="40" alt="powerbi" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,cpp,c,bash,js,html,css,tailwindcss,react,vite,fastapi,flask,tensorflow,pytorch,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
+</p>
+
+<!-- Missing ones with devicons (same icon style) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="48" height="48"/>
+  <img src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo-small.png" alt="sklearn" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Hadoop_logo.svg" alt="hadoop" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="48" height="48"/>
 </p>
 
 
