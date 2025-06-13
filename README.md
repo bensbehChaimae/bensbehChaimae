@@ -20,56 +20,8 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 ## 🛠️ Tech Stack
 
-**Languages & Core Technologies:**  
-`Python` `JavaScript` `SQL` `HTML` `CSS`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
-</p>
-
-**Web Frameworks & APIs:**  
-`FastAPI` `Flask` `REST APIs`
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
-**Machine Learning & AI:**  
-`TensorFlow` `PyTorch` `Keras` `Scikit-learn` `NumPy` `Pandas`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-**Databases & Storage:**  
-`MongoDB` `PostgreSQL` `MySQL` `Apache Cassandra`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
-
-**Big Data & Analytics:**  
-`Apache Spark` `Apache Kafka` `Apache Hadoop` `Apache Hive`
-
-**Cloud & DevOps:**  
-`Git` `GitHub` `GitHub Actions` `Heroku` `Docker` `Anaconda`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,heroku,docker" />
-</p>
-
-**Tools & Testing:**  
-`Selenium` `Matplotlib` `SciPy`
-
----
-
-
-### Alternative Compact Version
-
-**Tech Stack:** `Python` `FastAPI` `Flask` `TensorFlow` `PyTorch` `MongoDB` `PostgreSQL` `Apache Spark` `Docker` `Git`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,tensorflow,pytorch,mongodb,postgres,mysql,git,github,docker," />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,tensorflow,pytorch,mongodb,tensorflow,pytorch,postgres,mysql,git,github," />
 </p>
 
 
