@@ -21,7 +21,10 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 ## 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,cpp,c,bash,js,html,css,tailwindcss,react,vite,fastapi,flask,tensorflow,pytorch,keras,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,cpp,c,bash,js,html,css,tailwindcss,react,vite,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" />
 </p>
 
 pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hive,pig,flink, powerbi
@@ -53,9 +56,7 @@ pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hiv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" />
+
 </p>
 
 
