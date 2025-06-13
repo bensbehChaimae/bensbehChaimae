@@ -18,40 +18,46 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 ---
 
-## <div align="left">💻 Skills</div>
+## 🛠️ Tech Stack
 
-### **Programming Languages**
+<details>
+<summary><strong>🚀 Frameworks & Libraries</strong></summary>
+<br>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
-
-
-
-
-### **Frameworks and Libraries**
-<p align="left">
+**Web Frameworks**
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+</p>
+
+**Machine Learning & AI**
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+</p>
+
+**Data Science & Analytics**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40" height="40"/>
+</p>
+
+**Automation & Testing**
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" height="40"/>
 </p>
 
+</details>
 
+<details>
+<summary><strong>🏗️ Big Data & Analytics</strong></summary>
+<br>
 
-
-### **Big Data Tools**
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/64px-Apache_Spark_logo.svg.png" alt="Apache Spark" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/64px-Hadoop_logo.svg.png" alt="Apache Hadoop" width="40" height="40"/>
@@ -59,21 +65,42 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="Apache Cassandra" width="40" height="40"/>
 </p>
 
+</details>
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+<details>
+<summary><strong>🗄️ Databases</strong></summary>
+<br>
 
-### **Cloud Platforms & Hosting**
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Development Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+</details>
 
+<details>
+<summary><strong>☁️ Cloud & DevOps</strong></summary>
+<br>
+
+**Platforms & Hosting**  
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**CI/CD & Version Control**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+---
+
+### Alternative Compact Version
+
+**Tech Stack:** `Python` `FastAPI` `Flask` `TensorFlow` `PyTorch` `MongoDB` `PostgreSQL` `Apache Spark` `Docker` `Git`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,mongodb,postgres,git,github,docker" />
+</p>
 
 
 
