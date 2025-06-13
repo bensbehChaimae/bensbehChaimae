@@ -24,7 +24,19 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,tensorflow,pytorch,mongodb,tensorflow,pytorch,postgres,mysql,git,github," />
 </p>
 
+## 🛠️ Tech Stack
 
+**Languages:** <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+**Web Frameworks:** <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+
+**Machine Learning & AI:** <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+**Databases:** <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+**Big Data Tools:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/64px-Apache_Spark_logo.svg.png" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/64px-Hadoop_logo.svg.png" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Apache_Hive_logo.svg/64px-Apache_Hive_logo.svg.png" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" width="40"/>
+
+**Cloud & DevOps:** <img src="https://skillicons.dev/icons?i=git,github,heroku,docker" />
 
 
 ---
