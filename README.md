@@ -24,20 +24,41 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,tensorflow,pytorch,mongodb,tensorflow,pytorch,postgres,mysql,git,github," />
 </p>
 
+---
+
 ## 🛠️ Tech Stack
 
-**Languages:** <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="left">
+  <strong>Languages:</strong> 
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" style="vertical-align: middle;" />
+</p>
 
-**Web Frameworks:** <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+<p align="left">
+  <strong>Web Frameworks:</strong> 
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" style="vertical-align: middle;" />
+</p>
 
-**Machine Learning & AI:** <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="left">
+  <strong>Machine Learning & AI:</strong> 
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" style="vertical-align: middle;" />
+</p>
 
-**Databases:** <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<p align="left">
+  <strong>Databases:</strong> 
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" style="vertical-align: middle;" />
+</p>
 
-**Big Data Tools:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/64px-Apache_Spark_logo.svg.png" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/64px-Hadoop_logo.svg.png" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Apache_Hive_logo.svg/64px-Apache_Hive_logo.svg.png" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" width="40"/>
+<p align="left">
+  <strong>Big Data Tools:</strong> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" style="vertical-align: middle;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/64px-Apache_Spark_logo.svg.png" width="48" height="48" style="vertical-align: middle;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/64px-Hadoop_logo.svg.png" width="48" height="48" style="vertical-align: middle;"/>
+</p>
 
-**Cloud & DevOps:** <img src="https://skillicons.dev/icons?i=git,github,heroku,docker" />
-
+<p align="left">
+  <strong>Cloud & DevOps:</strong> 
+  <img src="https://skillicons.dev/icons?i=git,github,heroku,docker" style="vertical-align: middle;" />
+</p>
 
 ---
 
