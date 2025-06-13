@@ -45,22 +45,20 @@ pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hiv
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/NLTK_logo.png" alt="nltk" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Beautiful_Soup_Logo.png" alt="beautifulsoup" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="hadoop" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_Hive_logo.svg" alt="hive" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Apache_Pig_logo.svg" alt="pig" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_Flink_logo.svg" alt="flink" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40" style="background:black; padding:6px; border-radius:12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/NLTK_logo.png" alt="nltk" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Beautiful_Soup_Logo.png" alt="beautifulsoup" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="hadoop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_Hive_logo.svg" alt="hive" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Apache_Pig_logo.svg" alt="pig" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_Flink_logo.svg" alt="flink" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
 </p>
-
-
 
 
 
