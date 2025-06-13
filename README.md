@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=9C27B0&center=true&vCenter=true&width=435&lines=Data+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
   
 </div>
 
@@ -21,6 +21,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 ## <div align="left">💻 Skills</div>
 
 ### **Programming Languages**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdd54) 
