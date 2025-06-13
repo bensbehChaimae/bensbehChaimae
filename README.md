@@ -51,11 +51,14 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 
 
 ### **Big Data Tools**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka) 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apache-hadoop&logoColor=white) 
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apache-hive&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Apache Hadoop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Hive_logo.svg" alt="Apache Hive" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="Apache Cassandra" width="40" height="40"/>
+</p>
+
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
