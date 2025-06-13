@@ -23,7 +23,7 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 **Languages & Core Technologies:**  
 `Python` `JavaScript` `SQL` `HTML` `CSS`
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
 </p>
 
