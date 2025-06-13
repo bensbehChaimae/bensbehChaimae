@@ -1,7 +1,7 @@
 
 # <div align="center">👋 Welcome to My GitHub Profile</div>
 
---- 
+ 
 
 <div align="center">
 
@@ -9,12 +9,12 @@
   
 </div>
 
----
+
 
 ## <div align="left">🚀 About Me</div>
 
 
----
+
 
 ## 🛠️ Tech Stack 
 
@@ -45,7 +45,7 @@
 
 
 
----
+
 
 
 <div align="center">
