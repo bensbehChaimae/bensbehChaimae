@@ -25,17 +25,8 @@ AI enthusiast and Big Data Engineering student at ENSA Tetouan, Morocco 🇲🇦
 </p>
 
 
-<!-- Shields.io for the missing ones -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Pig-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
 
 
-pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hive,pig,flink, powerbi
 
 
 <p align="center">
@@ -43,29 +34,13 @@ pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hiv
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautifulsoup" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="hive" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Apache_Flink_logo.svg/64px-Apache_Flink_logo.svg.png" alt="flink" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" alt="nltk" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" alt="beautifulsoup" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
-  <!-- Spark from Wikipedia -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
-  <!-- Hive from devicon -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-plain.svg" alt="hive" width="40" height="40"/>
-  <!-- Pig - no official icon, skipping or use generic -->
-  <!-- Flink from Wikipedia -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Apache_Flink_logo.svg" alt="flink" width="40" height="40"/>
-  <!-- PowerBI from CDN -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
-</p>
+
 
 
 
