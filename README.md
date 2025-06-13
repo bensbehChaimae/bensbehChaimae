@@ -42,8 +42,8 @@ pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hiv
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
@@ -56,12 +56,17 @@ pandas, keras , numpy,matplotlib,seaborn,nltk,beautifulsoup, hadoop, spark , hiv
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" alt="nltk" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" alt="beautifulsoup" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/spark-original.svg" alt="spark" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="hive" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pig/pig-original.svg" alt="pig" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flink/flink-original.svg" alt="flink" width="40" height="40"/>
+  <!-- Spark from Wikipedia -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
+  <!-- Hive from devicon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-plain.svg" alt="hive" width="40" height="40"/>
+  <!-- Pig - no official icon, skipping or use generic -->
+  <!-- Flink from Wikipedia -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Apache_Flink_logo.svg" alt="flink" width="40" height="40"/>
+  <!-- PowerBI from CDN -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
 </p>
+
 
 
 
