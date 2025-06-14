@@ -25,7 +25,7 @@ Hi there! I'm an AI enthusiast and Big Data Engineering student from Morocco �
 ## 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,r,cpp,c,bash,js,html,css,tailwindcss,react,vite,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,r,cpp,c,bash,js,html,css,tailwindcss,airflow,react,vite,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
 </p>
 
 
