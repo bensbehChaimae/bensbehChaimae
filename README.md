@@ -31,13 +31,6 @@
 </p>
 
 
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+Data+Engineer;Data+Scientist;Problem+Solver;Let's+Build+AI!&center=true&width=500&height=50)
-  
-</div>
-
-
 
 
 <div align="center">
