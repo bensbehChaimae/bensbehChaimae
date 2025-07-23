@@ -14,24 +14,6 @@
 <br>
 <br>
 
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+Data+Engineer;Data+Scientist;Problem+Solver;Let's+Build+AI!&center=true&width=500&height=50)
-  
-</div>
-
-
-
-
-## <div align="left">🚀 About Me</div>
-Hi there! I'm an AI enthusiast and Big Data Engineering student from Morocco 🇲🇦, passionate about building intelligent systems that solve real-world problems. I love exploring the intersection of data, algorithms, and impact turning raw data into meaningful, actionable insights.
-**Currently diving deep into:** 
-* Generative AI & LLMs
-* Natural Language Processing
-* ETL Data Pipelines & Big Data tools
-
-🚀 My mission is to become a well-rounded AI Engineer, capable of designing smart, responsible, and efficient AI solutions that truly make a difference.
-
 
 
 ## 🛠️ Tech Stack 
@@ -39,10 +21,6 @@ Hi there! I'm an AI enthusiast and Big Data Engineering student from Morocco �
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,r,cpp,c,bash,js,html,css,tailwindcss,react,vite,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma" />
 </p>
-
-
-
-
 
 
 <p align="center">
@@ -53,15 +31,11 @@ Hi there! I'm an AI enthusiast and Big Data Engineering student from Morocco �
 </p>
 
 
+<div align="center">
 
-
-
-
-
-
-
-
-
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+Data+Engineer;Data+Scientist;Problem+Solver;Let's+Build+AI!&center=true&width=500&height=50)
+  
+</div>
 
 
 
