@@ -4,11 +4,11 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=9C27B0&center=true&vCenter=true&width=435&lines=Data+Engineer;Data+Scientist;Problem+Solver;AI+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+Data+Engineer;Data+Scientist;Problem+Solver;Let's+Build+AI!&center=true&width=500&height=50)
   
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+Data+Engineer;Let's+Build+AI!&center=true&width=500&height=50)
+
 
 
 ## <div align="left">🚀 About Me</div>
