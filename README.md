@@ -2,10 +2,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My GitHub Profile
 
 
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<picture>
+#<div align="center">
+#	<br>
+#	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+#		<picture>
 		  <source media="(min-width: 720px)" srcset="header.svg">
 		  <img src="header-mobile.svg" width="800" height="400" alt="Click to see the source">
 		</picture>
@@ -34,15 +34,10 @@
 
 
 
-<div align="center">
-  
+<div align="center"> 
   ### 🐍 Watch my contribution graph get eaten by the snake
- 
 </div>
-
 <picture>
-
-
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
@@ -61,7 +56,7 @@
   <a href="https://twitter.com/yourtwitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:bch4869nc@gmail.com" target="_blank">
+  <a href="mailto:" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://medium.com/@yourusername" target="_blank">
@@ -74,6 +69,5 @@
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
   <p>Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!</p>
-  
   ![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=120&section=footer)
 </div>
