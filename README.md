@@ -2,18 +2,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My GitHub Profile
 
 
-#<div align="center">
-#	<br>
-#	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-#		<picture>
-		  <source media="(min-width: 720px)" srcset="header.svg">
-		  <img src="header-mobile.svg" width="800" height="400" alt="Click to see the source">
-		</picture>
-	</a>
-	<br>
-</div>
-<br>
-<br>
 
 
 
