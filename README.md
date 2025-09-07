@@ -1,6 +1,6 @@
-<div align="center"> 
-  ### 🐍 Watch my contribution graph get eaten by the snake
-</div>
+# 
+
+### 🐍 Watch my contribution graph get eaten by the snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
