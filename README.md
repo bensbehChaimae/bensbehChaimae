@@ -14,6 +14,6 @@
 </ul>
 
 &nbsp;![](https://komarev.com/ghpvc/?username=bensbehChaimae1&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&rank_icon=github&locale=en" alt="bensbehChaimae" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&show_icons=true&rank_icon=github&locale=en" alt="bensbehChaimae" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensbehChaimae&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
