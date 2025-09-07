@@ -1,4 +1,16 @@
-# 
+## 🛠️ Tech Stack 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,r,cpp,c,bash,js,html,css,tailwindcss,react,vite,nextjs,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma,dbt,snowflake" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
+</p>
 
 ### 🐍 Watch my contribution graph get eaten by the snake
 <picture>
@@ -8,12 +20,4 @@
 </picture>
 
 
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
-<ul>
 
-</ul>
-
-&nbsp;![](https://komarev.com/ghpvc/?username=bensbehChaimae1&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&show_icons=true&rank_icon=github&locale=en" alt="bensbehChaimae" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensbehChaimae&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
