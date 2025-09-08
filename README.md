@@ -8,11 +8,16 @@
 </p>
 
 
+### Tech stacks : 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,r,cpp,c,bash,js,html,css,tailwindcss,react,vite,nextjs,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma,dbt,snowflake" />
+</p>
+
+
+
 
 ### GitHub Stats  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&show_icons=true&theme=radical" alt="bensbehChaimae" />
-
-<img src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/snake.svg" alt="Snake animation" />
 
 
 
