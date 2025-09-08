@@ -11,10 +11,6 @@
 ### Tech stacks : 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,r,cpp,c,bash,js,html,css,tailwindcss,react,vite,nextjs,fastapi,flask,tensorflow,pytorch,scikitlearn,selenium,mongodb,postgres,mysql,git,github,kafka,figma,dbt,snowflake" width="400"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="25" height="25"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="25" height="25"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="25" height="25"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="25" height="25"/>
 </p>
 
 
