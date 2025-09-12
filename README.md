@@ -16,7 +16,11 @@
 
 
 ## GitHub Status  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&show_icons=true&theme=radical" alt="bensbehChaimae" />
+<div >
+<img src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&show_icons=true&theme=radical" alt="bensbehChaimae" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensbehChaimae&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
 
 
 
