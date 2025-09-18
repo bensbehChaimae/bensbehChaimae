@@ -9,7 +9,7 @@
 
 ## About Me
 - 🔭 Currently working on **Data Engineering & AI Projects**  
-- 🌱 Exploring **MLOps, Cloud, and Scalable Systems**  
+- 🌱 Exploring **AI agents, RAG systems, ETL/ELT pipelines, system design patterns, DSA**  
 - 📝 Sharing notes & projects on **GitHub**  
 - 💡 Interested in **AI research, distributed computing, and web apps**  
 
