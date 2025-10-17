@@ -8,10 +8,11 @@
 
 
 ## About Me
-- 🔭 Currently working on **Data Engineering & AI Projects**  
-- 🌱 Exploring **AI agents, RAG systems, ETL/ELT pipelines, system design patterns, DSA**  
-- 📝 Sharing notes & projects on **GitHub**  
-- 💡 Interested in **AI research, distributed computing, and web apps**  
+- 🔭 Currently learning **Cloud Computing** and **Blockchain**
+- 🌱 Exploring **AI agents, RAG systems, ETL/ELT pipelines, system design patterns, DSA**
+- 🧩 Recently discovered **Graph Theory** and loving it
+- 📝 Sharing notes & projects on **GitHub**
+- 💡 Interested in **AI research, distributed computing, and web apps**
 
 
 
