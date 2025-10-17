@@ -13,6 +13,7 @@
 - 🧩 Recently discovered **Graph Theory** and loving it
 - 📝 Sharing notes & projects on **GitHub**
 - 💡 Interested in **AI research, distributed computing, and web apps**
+- 🌍 Excited to start contributing to **Open Source** projects
 
 
 
