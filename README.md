@@ -23,6 +23,10 @@
 <img 
   src="https://github-readme-stats.vercel.app/api?username=bensbehChaimae&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="bensbehChaimae" 
 />
+  <!-- <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensbehChaimae&layout=compact&theme=radical&count_private=true" alt="Most Used Languages"
+  /> -->
+</p>
 </p>
 
 
