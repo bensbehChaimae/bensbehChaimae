@@ -16,7 +16,12 @@
 - 🌍 Excited to start contributing to **Open Source** projects
 
 ## Tools & Technologies 
-<div style="display: flex; justify-content: center; padding: 20px;">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,ubuntu,linux,python,javascript,ts,react,tailwindcss,flask,fastapi,pytorch,tensorflow,opencv,selenium,c,cpp,git,docker,githubactions,azure,aws,googlecloud,grafana,prometheus,kafka,mysql,mongodb,supabase,postgres,nginx,nodejs" />
+  </a>
+</p>
+<!-- <div style="display: flex; justify-content: center; padding: 20px;">
   <table style="border-collapse: separate; border-spacing: 10px;">
     <tr>
       <td align="center" width="80" style="padding: 10px;">
@@ -83,13 +88,17 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="n8n" />
         <br>css
       </td>
+      <td align="center" width="80" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=selenuim" width="48" height="48" />
+        <br> Selenuim
+      </td>
       <td align="center" width="50" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="n8n" />
         <br>javascript
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 
 ## GitHub Status  
