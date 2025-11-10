@@ -21,8 +21,7 @@
     <img src="https://skillicons.dev/icons?i=bash,ubuntu,linux,python,javascript,ts,react,tailwindcss,flask,fastapi,pytorch,tensorflow,opencv,selenium,c,cpp,git,docker,githubactions,azure,aws,googlecloud,grafana,prometheus,kafka,mysql,mongodb,supabase,postgres,nginx,nodejs" />
   </a>
 </p>
-  </table>
-</div> -->
+
 
 
 ## GitHub Status  
