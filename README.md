@@ -39,3 +39,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
 </picture>
+
+![Pac‑Man contribution graph](https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/pacman-contribution-graph.svg)
