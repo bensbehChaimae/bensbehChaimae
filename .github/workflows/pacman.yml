@@ -21,7 +21,88 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Push the generated SVG to the output branch
+      - name: customize generated pacman svg
+        # This step edits dist/pacman-contribution-graph.svg in-place, makes a .bak copy,
+        # changes background fills that look like white/background rects to Pac-Man blue,
+        # and changes non-transparent stroke colors to Pac-Man blue while preserving other colors.
+        run: |
+          python3 - <<'PY'
+          import os, shutil, sys
+          import xml.etree.ElementTree as ET
+
+          p = 'dist/pacman-contribution-graph.svg'
+          if not os.path.exists(p):
+              print("SVG not found:", p)
+              sys.exit(0)
+
+          shutil.copy2(p, p + '.bak')
+          blue = '#0b3d91'
+
+          # Register default namespace if present
+          ET.register_namespace('', "http://www.w3.org/2000/svg")
+          tree = ET.parse(p)
+          root = tree.getroot()
+          ns = '{http://www.w3.org/2000/svg}'
+
+          fills_changed = 0
+          strokes_changed = 0
+
+          svg_w = root.get('width')
+          svg_h = root.get('height')
+
+          def parse_style(s):
+              d = {}
+              for part in [x.strip() for x in s.split(';') if x.strip()]:
+                  if ':' in part:
+                      k, v = part.split(':', 1)
+                      d[k.strip()] = v.strip()
+              return d
+
+          def style_to_str(d):
+              return ';'.join(f'{k}:{v}' for k, v in d.items())
+
+          # Update rect fills that are likely background (white) or very large
+          for rect in root.findall('.//{}rect'.format(ns)):
+              fill = (rect.get('fill') or '').strip().lower()
+              style = rect.get('style') or ''
+              if 'fill:' in style:
+                  d = parse_style(style)
+                  if d.get('fill', '').lower() in ('#ffffff', 'white'):
+                      d['fill'] = blue
+                      rect.set('style', style_to_str(d))
+                      fills_changed += 1
+                      continue
+              if fill in ('#ffffff', 'white', ''):
+                  w = rect.get('width')
+                  h = rect.get('height')
+                  try:
+                      # If rect is large (covers many pixels) assume background
+                      if (w and h and (svg_w == w or svg_h == h or float(w) > 100 or float(h) > 100)):
+                          rect.set('fill', blue)
+                          fills_changed += 1
+                  except Exception:
+                      rect.set('fill', blue)
+                      fills_changed += 1
+
+          # Update strokes for any element that has a non-transparent stroke
+          for el in root.findall('.//*'):
+              stroke = (el.get('stroke') or '').strip().lower()
+              style = el.get('style') or ''
+              if stroke and stroke not in ('none', 'transparent'):
+                  el.set('stroke', blue)
+                  strokes_changed += 1
+              if 'stroke:' in style:
+                  d = parse_style(style)
+                  if 'stroke' in d and d['stroke'].lower() not in ('none', 'transparent'):
+                      d['stroke'] = blue
+                      el.set('style', style_to_str(d))
+                      strokes_changed += 1
+
+          tree.write(p, encoding='utf-8', xml_declaration=True)
+          print(f'fills_changed={fills_changed}, strokes_changed={strokes_changed}')
+          PY
+
+      # Push the generated (and now customized) SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
