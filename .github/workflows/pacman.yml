@@ -21,13 +21,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: customize generated pacman svg
-        # This step edits dist/pacman-contribution-graph.svg in-place, makes a .bak copy,
-        # changes background fills that look like white/background rects to Pac-Man blue,
-        # and changes non-transparent stroke colors to Pac-Man blue while preserving other colors.
+      - name: customize generated pacman svg (background, borders, and barriers)
         run: |
           python3 - <<'PY'
-          import os, shutil, sys
+          import os, shutil, sys, math
           import xml.etree.ElementTree as ET
 
           p = 'dist/pacman-contribution-graph.svg'
@@ -35,10 +32,10 @@ jobs:
               print("SVG not found:", p)
               sys.exit(0)
 
+          # Backup
           shutil.copy2(p, p + '.bak')
           blue = '#0b3d91'
 
-          # Register default namespace if present
           ET.register_namespace('', "http://www.w3.org/2000/svg")
           tree = ET.parse(p)
           root = tree.getroot()
@@ -46,13 +43,12 @@ jobs:
 
           fills_changed = 0
           strokes_changed = 0
+          barriers_added = 0
 
-          svg_w = root.get('width')
-          svg_h = root.get('height')
-
+          # Helper to parse inline style attribute
           def parse_style(s):
               d = {}
-              for part in [x.strip() for x in s.split(';') if x.strip()]:
+              for part in [x.strip() for x in (s or '').split(';') if x.strip()]:
                   if ':' in part:
                       k, v = part.split(':', 1)
                       d[k.strip()] = v.strip()
@@ -61,30 +57,56 @@ jobs:
           def style_to_str(d):
               return ';'.join(f'{k}:{v}' for k, v in d.items())
 
-          # Update rect fills that are likely background (white) or very large
+          # Collect rect elements that look like grid cells (width/height present)
+          rects = []
           for rect in root.findall('.//{}rect'.format(ns)):
+              w = rect.get('width')
+              h = rect.get('height')
+              x = rect.get('x') or rect.get('cx') or '0'
+              y = rect.get('y') or rect.get('cy') or '0'
+              try:
+                  rects.append((rect, float(x), float(y), float(w) if w else 0.0, float(h) if h else 0.0))
+              except Exception:
+                  continue
+
+          if rects:
+              # Determine typical cell size by mode of widths/heights
+              widths = [r[3] for r in rects if r[3] > 0]
+              heights = [r[4] for r in rects if r[4] > 0]
+              cell_w = min(widths) if widths else 10
+              cell_h = min(heights) if heights else 10
+              # grid origin
+              min_x = min(r[1] for r in rects)
+              min_y = min(r[2] for r in rects)
+          else:
+              # Fallback sizes
+              cell_w = cell_h = 12
+              min_x = min_y = 0
+
+          svg_w = root.get('width')
+          svg_h = root.get('height')
+
+          # 1) Recolor background-ish rects (white or very large) to blue
+          for rect, x, y, w, h in rects:
               fill = (rect.get('fill') or '').strip().lower()
               style = rect.get('style') or ''
               if 'fill:' in style:
                   d = parse_style(style)
-                  if d.get('fill', '').lower() in ('#ffffff', 'white'):
+                  if d.get('fill','').lower() in ('#ffffff', 'white'):
                       d['fill'] = blue
                       rect.set('style', style_to_str(d))
                       fills_changed += 1
                       continue
               if fill in ('#ffffff', 'white', ''):
-                  w = rect.get('width')
-                  h = rect.get('height')
                   try:
-                      # If rect is large (covers many pixels) assume background
-                      if (w and h and (svg_w == w or svg_h == h or float(w) > 100 or float(h) > 100)):
+                      if (w and h and (svg_w == str(w) or svg_h == str(h) or w > 100 or h > 100)):
                           rect.set('fill', blue)
                           fills_changed += 1
                   except Exception:
                       rect.set('fill', blue)
                       fills_changed += 1
 
-          # Update strokes for any element that has a non-transparent stroke
+          # 2) Recolor strokes that are non-transparent
           for el in root.findall('.//*'):
               stroke = (el.get('stroke') or '').strip().lower()
               style = el.get('style') or ''
@@ -98,11 +120,54 @@ jobs:
                       el.set('style', style_to_str(d))
                       strokes_changed += 1
 
+          # 3) Insert barrier rects overlaying specific grid positions
+          # Default symmetrical maze pattern (list of (col,row))
+          # Adjust these coordinates if your grid uses different orientation.
+          barrier_coords = [
+              # a small classic-like pattern centered horizontally
+              (4,1),(5,1),(6,1),(7,1),(8,1),(9,1),
+              (2,3),(3,3),(4,3),(9,3),(10,3),(11,3),
+              (1,5),(2,5),(3,5),(11,5),(12,5),(13,5),
+              (4,7),(5,7),(6,7),(7,7),(8,7),(9,7),
+              # symmetric bottom half will be mirrored
+          ]
+          # Mirror vertically if grid height known (attempt to estimate rows)
+          # Estimate number of rows by max row found in rects
+          row_indices = [ int(round((r[2] - min_y)/cell_h)) for r in rects ] if rects else []
+          max_row = max(row_indices) if row_indices else 15
+          # Add mirrored coordinates
+          mirrored = []
+          for c,r in barrier_coords:
+              mr = max_row - r
+              if mr != r:
+                  mirrored.append((c,mr))
+          full_barriers = set(barrier_coords + mirrored)
+
+          # Create barriers group
+          barriers_group = ET.Element(ns + 'g', {'id':'pacman-barriers'})
+          for col,row in sorted(full_barriers):
+              bx = min_x + col * cell_w
+              by = min_y + row * cell_h
+              rect_attribs = {
+                  'x': str(bx),
+                  'y': str(by),
+                  'width': str(cell_w),
+                  'height': str(cell_h),
+                  'fill': blue,
+                  'class': 'pacman-barrier',
+                  'rx': '1'
+              }
+              barriers_group.append(ET.Element(ns + 'rect', rect_attribs))
+              barriers_added += 1
+
+          # Append barriers to root (after existing content)
+          root.append(barriers_group)
+
+          # Write modified SVG
           tree.write(p, encoding='utf-8', xml_declaration=True)
-          print(f'fills_changed={fills_changed}, strokes_changed={strokes_changed}')
+          print(f'fills_changed={fills_changed}, strokes_changed={strokes_changed}, barriers_added={barriers_added}')
           PY
 
-      # Push the generated (and now customized) SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
