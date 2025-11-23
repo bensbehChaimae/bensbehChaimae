@@ -21,6 +21,68 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # Post-process the SVG to customize colors
+      - name: Customize SVG colors
+        run: |
+          python3 << 'PYTHON_SCRIPT'
+          import os
+          import shutil
+          import xml.etree.ElementTree as ET
+          
+          svg_path = 'dist/pacman-contribution-graph.svg'
+          backup_path = 'dist/pacman-contribution-graph.svg.bak'
+          
+          # Check if file exists
+          if not os.path.exists(svg_path):
+              print(f"Error: {svg_path} not found!")
+              exit(1)
+          
+          # Create backup
+          shutil.copy2(svg_path, backup_path)
+          print(f"✓ Created backup: {backup_path}")
+          
+          # Parse SVG
+          tree = ET.parse(svg_path)
+          root = tree.getroot()
+          
+          # Define the Pac-Man blue color
+          PACMAN_BLUE = '#0b3d91'
+          
+          # Track changes
+          changes = {'background': 0, 'borders': 0, 'strokes': 0}
+          
+          # Define SVG namespace
+          ns = {'svg': 'http://www.w3.org/2000/svg'}
+          ET.register_namespace('', 'http://www.w3.org/2000/svg')
+          
+          # Process all elements
+          for elem in root.iter():
+              # Change background rectangles (typically large rects with specific fills)
+              if elem.tag.endswith('rect'):
+                  fill = elem.get('fill', '')
+                  # Change background fills (commonly white, light colors, or specific bg colors)
+                  # Avoid changing ghost/dot colors (usually bright colors)
+                  if fill and fill.lower() in ['#fff', '#ffffff', 'white', '#f0f0f0', '#fafafa', '#e0e0e0', '#eeeeee']:
+                      elem.set('fill', PACMAN_BLUE)
+                      changes['background'] += 1
+              
+              # Change stroke colors for borders (but keep transparent/none strokes)
+              stroke = elem.get('stroke', '')
+              if stroke and stroke.lower() not in ['none', 'transparent', '']:
+                  # Change border strokes to blue
+                  elem.set('stroke', PACMAN_BLUE)
+                  changes['strokes'] += 1
+          
+          # Save modified SVG
+          tree.write(svg_path, encoding='unicode', xml_declaration=True)
+          
+          # Print summary
+          print(f"\n✓ SVG customization complete!")
+          print(f"  - Background fills changed: {changes['background']}")
+          print(f"  - Stroke colors changed: {changes['strokes']}")
+          print(f"  - Custom blue color: {PACMAN_BLUE}")
+          PYTHON_SCRIPT
+
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

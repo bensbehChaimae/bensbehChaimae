@@ -32,6 +32,12 @@
 </p>
 
 
+### 🎮 Pac-Man Style Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+</p>
+<p align="center"><em>My GitHub contributions visualized as a Pac-Man game with custom blue theme</em></p>
+
 ### 🐍 Watch my contribution graph get eaten by the snake
 </div>
 <picture>
