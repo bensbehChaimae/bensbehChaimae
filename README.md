@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Data%20Scientist;Data%20Engineer;Problem%20Solving;DSA&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=100&size=24&background=141321" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Data%20Scientist;Data%20Engineer;Problem%20Solving;DSA&font=Fira%20Code&center=true&width=500&height=45&color=00ffcc&vCenter=true&pause=100&size=24&background=013220" />
   </a>
 </p>
 
@@ -27,8 +27,8 @@
 ## GitHub Status  
 
 <p align="center">
-  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=bensbehChaimae&hide_title=true&show_icons=true&theme=radical&include_all_commits=true" alt="bensbehChaimae" /></picture></a>
-  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=bensbehChaimae&hide_title=false&layout=compact&theme=radical&count_private=true" /></picture></a>
+  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=bensbehChaimae&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true" alt="bensbehChaimae" /></picture></a>
+  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=bensbehChaimae&hide_title=false&layout=compact&theme=blue-green&count_private=true" /></picture></a>
 </p>
 
 
