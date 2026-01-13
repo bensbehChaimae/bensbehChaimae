@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Data%20Scientist;Data%20Engineer;Problem%20Solving;DSA&font=Fira%20Code&center=true&width=500&height=45&color=00ffcc&vCenter=true&pause=100&size=24&background=013220" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;Problem%20Solver;Data%20Scientist;Data%20Engineer;&font=Fira%20Code&center=true&width=500&height=45&color=00ffcc&vCenter=true&pause=40&size=24&background=013220" />
   </a>
 </p>
 
