@@ -8,12 +8,10 @@
 
 
 ## About Me
-- 🔭 Currently learning **Cloud Computing** and **Blockchain**
-- 🌱 Exploring **AI agents, RAG systems, ETL/ELT pipelines, system design patterns, DSA**
-- 🧩 Recently discovered **Graph Theory** and loving it
+- 🌱 Exploring **AI agents, RAG systems, ETL/ELT pipelines**
 - 📝 Sharing notes & projects on **GitHub**
-- 💡 Interested in **AI research, distributed computing, and web apps**
-- 🌍 Excited to start contributing to **Open Source** projects
+- 🌍 Excited to start contributing to **Open Source** projects.
+- 🧩 Recently discovered **Graph Theory** and loving it
 
 ## Tools & Technologies 
 <p align="center">
