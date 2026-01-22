@@ -25,7 +25,7 @@
 ## GitHub Status  
 
 <p align="center">
-  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=bensbehChaimae&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true" alt="bensbehChaimae" /></picture></a>
+  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=bensbehChaimae&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="bensbehChaimae" /></picture></a>
   <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=bensbehChaimae&hide_title=false&layout=compact&theme=blue-green&count_private=false" /></picture></a>
 </p>
 
