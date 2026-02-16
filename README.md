@@ -13,12 +13,15 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 - Build and orchestrate automation workflows using n8n
 - Deploy, monitor, and maintain machine learning models in production environments
 
+
 ## Experience : 
 
 ### Huawei Developper competition "spark infinity" (December 2025) finaliste :
 - Developed RenewStation, an AI-powered platform for renewable energy optimization using Huawei Cloud services, designed to stabilize and optimize urban energy systems.
 - AI-driven monitoring, forecasting, and smart distribution of renewable energy
 - Transforms unpredictable renewable sources into a stable supply for smart cities
+- 🎥 **[Watch our presentation video](https://www.youtube.com/watch?si=KYYkLEckKZ0PCHQR&v=DmIECEjYKoY&feature=youtu.be)**
+
 
 ### AI Engineer Intnership - Mrabet Immobilier (June 2025 — July 2025) : 
 - Developed a data-driven decision support dashboard that analyzes historical and market data to evaluate construction project feasibility and expected ROI.
