@@ -8,10 +8,12 @@
 
 
 ## About Me
-- 🌱 Exploring **AI agents, RAG systems, ETL/ELT pipelines**
-- 📝 Sharing notes & projects on **GitHub**
-- 🌍 Excited to start contributing to **Open Source** projects.
-- 🧩 Recently discovered **Graph Theory** and loving it
+Future Data Engineer & AI Developer from Morocco, focused on building production-ready intelligent systems. I design AI automations and scalable data pipelines that transform raw data into reliable, deployable solutions for real-world challenges.
+- Design and implement end-to-end data pipelines for analytics and AI workloads
+- Build and orchestrate automation workflows using n8n
+- Deploy, monitor, and maintain machine learning models in production environments
+
+
 
 ## Tools & Technologies 
 <p align="center">
