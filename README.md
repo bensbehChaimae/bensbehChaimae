@@ -15,7 +15,7 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 
 ## Experience : 
 
-### Huawei Developper competition (spark infinity) 2025 finaliste :
+### Huawei Developper competition "spark infinity" (December 2025) finaliste :
 - Developed RenewStation, an AI-powered platform for renewable energy optimization using Huawei Cloud services, designed to stabilize and optimize urban energy systems.
 - AI-driven monitoring, forecasting, and smart distribution of renewable energy
 - Transforms unpredictable renewable sources into a stable supply for smart cities
