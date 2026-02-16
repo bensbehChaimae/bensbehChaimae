@@ -32,6 +32,7 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 ## Tools & Technologies 
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://cdn.simpleicons.org/n8n/red" alt="n8n" width="50"/>
     <img src="https://skillicons.dev/icons?i=bash,ubuntu,linux,python,javascript,ts,react,tailwindcss,flask,fastapi,pytorch,tensorflow,opencv,selenium,c,cpp,git,docker,githubactions,azure,aws,googlecloud,grafana,prometheus,kafka,mysql,mongodb,supabase,postgres,nginx,nodejs" />
   </a>
 </p>
