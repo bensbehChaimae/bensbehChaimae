@@ -29,6 +29,83 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 - Integrated the AI model with the web application to provide real-time, data-driven insights for project evaluation
 
 
+## Projects : 
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💬 <img src="https://readme-typing-svg.demolab.com/?lines=DocQuery&font=Fira%20Code&size=22&color=00ffcc&width=150&height=30&vCenter=true&pause=1000000" alt="DocQuery"/></h3>
+
+Multi-lingual RAG-based chatbot
+- **Features:**
+  - Fully containerized application deployed via GitHub Actions
+  - Document chunking with Cohere multilingual embeddings
+  - OpenAI/Ollama for response generation
+  - Qdrant vector database for storage
+  - Prometheus & Grafana monitoring
+- **Tech Stack:** Docker, Cohere, OpenAI, Qdrant, Prometheus, Grafana
+- **[View Repository →](https://github.com/bensbehChaimae/DocQuery-RAG-chatbot)**
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 <img src="https://readme-typing-svg.demolab.com/?lines=SalesSync&font=Fira%20Code&size=22&color=9b59b6&width=160&height=30&vCenter=true&pause=1000000" alt="SalesSync"/></h3>
+
+CRM sales data pipeline on Azure
+- **Features:**
+  - On-premises to cloud data migration
+  - Azure Data Factory orchestration
+  - Email notifications for pipeline status
+  - Databricks for data cleaning & preparation
+  - Production-ready analytics pipeline
+- **Tech Stack:** Azure Data Factory, Databricks, Azure Cloud
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏥 <img src="https://readme-typing-svg.demolab.com/?lines=Vision%2B&font=Fira%20Code&size=22&color=3498db&width=130&height=30&vCenter=true&pause=1000000" alt="Vision+"/></h3>
+
+Medical agent receptionist
+- **Features:**
+  - Built entirely with n8n automation
+  - Automatic appointment booking
+  - Patient registration with NLP
+  - Admin dashboard for entity monitoring
+  - Intelligent conversation handling
+- **Tech Stack:** n8n, NLP, Automation Workflows
+- **[View Repository →](https://github.com/bensbehChaimae/visionplus-medical-receptionist-agent])**
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧾 <img src="https://readme-typing-svg.demolab.com/?lines=InvoX&font=Fira%20Code&size=22&color=2ecc71&width=110&height=30&vCenter=true&pause=1000000" alt="InvoX"/></h3>
+
+Invoice analysis platform
+- **Features:**
+  - Invoice upload and processing
+  - Financial metrics dashboard
+  - Supplier tracking system
+  - Unpaid invoice alerts & notifications
+  - Attention system for overdue payments
+- **Tech Stack:** Python, Data Processing, Analytics
+- **[View Repository →](https://github.com/bensbehChaimae/INVOX-Smart-Invoice-Analyser)**
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+
+
+
 ## Tools & Technologies 
 <p align="center">
   <a href="https://skillicons.dev">
