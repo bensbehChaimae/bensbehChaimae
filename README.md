@@ -42,6 +42,7 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 Multi-lingual RAG-based chatbot
 - **Features:**
   - Fully containerized application deployed via GitHub Actions
+  - Microservice Architecture 
   - Document chunking with Cohere multilingual embeddings
   - OpenAI/Ollama for response generation
   - Qdrant vector database for storage
