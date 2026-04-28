@@ -20,7 +20,6 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 - Developed RenewStation, an AI-powered platform for renewable energy optimization using Huawei Cloud services, designed to stabilize and optimize urban energy systems.
 - AI-driven monitoring, forecasting, and smart distribution of renewable energy
 - Transforms unpredictable renewable sources into a stable supply for smart cities
-- 🎥 **[Watch our presentation video](https://www.youtube.com/watch?si=KYYkLEckKZ0PCHQR&v=DmIECEjYKoY&feature=youtu.be)**
 
 
 ### AI Engineer Intnership - Mrabet Immobilier (June 2025 — July 2025) : 
