@@ -6,6 +6,20 @@
   </a>
 </p>
 
+<!-- HEADER BANNER -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0a4a,50:7b2cbf,100:ff4d8d&height=200&section=header&text=Hi%20👋%20I'm%20Sara&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=&descAlignY=58&descSize=18&descColor=ff9ad5&animation=fadeIn" width="100%"/> -->
+
+
+
+<!-- TYPING ANIMATION -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;Embedded+Systems+Engineer;Building+at+SoilNara+%F0%9F%8C%B1;Backend+APIs+%7C+React+%7C+MongoDB;Consistent+%26+Determined+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/bensbehChaimae?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/bensbehChaimae?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/bensbehChaimae?label=Total%20Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/bensbehChaimae)
+[![Profile views](https://komarev.com/ghpvc/?username=bensbehChaimae&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/bensbehChaimae)
+-->
 
 ## About Me
 Future Data Engineer & AI Developer from Morocco, focused on building production-ready intelligent systems. I design AI automations and scalable data pipelines that transform raw data into reliable, deployable solutions for real-world challenges.
