@@ -1,4 +1,5 @@
 <!-- HEADER BANNER -->
+<!-- check updates -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=30&fontColor=ffffff&fontAlignY=38&font=Fira%20Code&desc=&descAlignY=58&descSize=16&descColor=a0ffe6&animation=fadeIn" width="100%"/>
