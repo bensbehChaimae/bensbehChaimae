@@ -109,6 +109,19 @@ with <strong>Databricks</strong> cleaning/prep and pipeline status notifications
   <tr>
     <!-- Project --->
     <td width="50%" valign="top">
+       <h3> 🎙️ <a href="https://github.com/bensbehChaimae/TTS_playground">TTS Playground — Text-to-Speech Microservice App</a></h3>
+      <p>Open-source microservice platform for async text-to-speech generation with voice cloning support. It lets users enter text, pick from over 25 different voices, and get back an audio file</p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat&logo=postgresql&logoColor=00c9a7"/>
+        <img src="https://img.shields.io/badge/MinIO-0f2027?style=flat&logo=minio&logoColor=00c9a7"/>
+        <img src="https://img.shields.io/badge/Drizzle-0f2027?style=flat&logo=drizzle&logoColor=00c9a7"/>
+        <img src="https://img.shields.io/badge/Redis-0f2027?style=flat&logo=redis&logoColor=00c9a7"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-0f2027?style=flat&logo=rabbitmq&logoColor=00c9a7"/>
+      </p>
+      <p>🗣️ Speech pipelines &nbsp;|&nbsp; 🧪 Experiments &nbsp;|&nbsp; ⚙️ Model testing</p>
+    </td>
+    <!-- ROW -->
+    <td width="50%" valign="top">
       <h3>🌱 RenewStation — Renewable Energy Optimization (Huawei Cloud)</h3>
       <p>An AI-powered platform concept built for Huawei Developer Competition: renewable energy monitoring, forecasting, and smart distribution
 to improve stability of urban energy systems for smart cities.</p>
@@ -120,9 +133,7 @@ to improve stability of urban energy systems for smart cities.</p>
       </p>
       <p>📈 Forecasting &nbsp;|&nbsp; ⚙️ Optimization &nbsp;|&nbsp; 🏙️ Smart-city ready &nbsp;|&nbsp; 🌍 Sustainability</p>
     </td>
-   
-  </tr>
-    <!-- ROW -->
+    </tr>
 </table>
 
 
