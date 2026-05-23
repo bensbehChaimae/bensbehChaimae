@@ -14,8 +14,8 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/bensbehChaimae?label=Followers&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/bensbehChaimae?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/bensbehChaimae?label=Total%20Stars&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/bensbehChaimae)
 [![Profile views](https://komarev.com/ghpvc/?username=bensbehChaimae&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/bensbehChaimae)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/bensbehChaimae?label=Total%20Stars&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/bensbehChaimae) -->
 
 </div>
 
