@@ -13,9 +13,9 @@
 <!-- Github status -->
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/bensbehChaimae?label=Followers&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/bensbehChaimae?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=bensbehChaimae&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/bensbehChaimae)
-<!-- [![GitHub stars](https://img.shields.io/github/stars/bensbehChaimae?label=Total%20Stars&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/bensbehChaimae) -->
+[![GitHub followers](https://img.shields.io/github/followers/chaibs00?label=Followers&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/chaibs00?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=chaibs00&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/chaibs00)
+[![GitHub stars](https://img.shields.io/github/stars/chaibs00?label=Total%20Stars&style=for-the-badge&color=00c9a7&labelColor=0f2027)](https://github.com/chaibs00)
 
 </div>
 
@@ -153,9 +153,9 @@ to improve stability of urban energy systems for smart cities.</p>
 ## GitHub Status  
 
 <p align="center">
-  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=bensbehChaimae&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="bensbehChaimae" /></picture></a>
-  <a href="https://github.com/bensbehChaimae/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=bensbehChaimae&hide_title=false&layout=compact&theme=blue-green&count_private=false" /></picture></a>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bensbehChaimae&theme=vue" alt="profile summary" />
+  <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=chaibs00&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="bensbehChaimae" /></picture></a>
+  <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=chaibs00&hide_title=false&layout=compact&theme=blue-green&count_private=false" /></picture></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaibs00&theme=vue" alt="profile summary" />
 </p>
 
 
